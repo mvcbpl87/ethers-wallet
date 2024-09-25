@@ -19,3 +19,17 @@ The balance of 0x75...a4B7 is: 0.0 ETH
 The balance of 0x3c...a7ec is: 0.0 ETH
 The balance of 0x26...1035 is: 0.0 ETH
 The balance of 0xde...fdFa is: 0.0 ETH
+
+
+## Child Wallet Output for PathFormatterV2 26.9.24
+
+Aubry's wallet address : 0x6b377e84083e296EA92157989B427e601c18dFDA
+Billy's wallet address : 0x2f727742DE332CAdA0347399F84C8b898b1bef6f
+Candice's wallet address : 0x9764a7E459193a62fF11410BD3d925a26F8f69E0
+Thomas's wallet address : 0x0564Dff4A2f6AF521162a1a2e8580EDF59E025e9
+Robin's wallet address : 0x6B0C975B9b1EBCEfAF960B492800BF961586c2EE
+The balance of 0x6b...dFDA is: 0.0 ETH
+The balance of 0x2f...ef6f is: 0.0 ETH
+The balance of 0x97...69E0 is: 0.0 ETH
+The balance of 0x05...25e9 is: 0.0 ETH
+The balance of 0x6B...c2EE is: 0.0 ETH

@@ -113,8 +113,9 @@ const createChildWallet = async (
 ) => {
   try {
     // alt master.deriveChild(index:number)
-    const childNode = master.derivePath(helper.PathFormatter(user.index));
-    const _wallet = childNode.connect(provider);
+    const childNode = master.derivePath(helper.PathFormatterV2(user.id));
+    const _wallet = childNode;
+    // const _wallet = childNode.connect(provider);
 
     console.log(` ${user.name}'s wallet address : ${_wallet.address}`);
     console.log(`${user.name}'s private key : ${_wallet.privateKey}`);

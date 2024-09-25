@@ -27,6 +27,12 @@ const users: UserInstances[] = [
     name: "Thomas",
     address: "0xde8E34b82B5Ab48615301a71A1E28D829f1AfdFa",
   },
+  {
+    index: 7,
+    id: "fe39639c-59be-4836-8843-faac6d32d9c9",
+    name: "Robin",
+    address: "0xde8E34b82B5Ab48615301a71A1E28D829f1AfdFa",
+  },
 ];
 
 export default users;
