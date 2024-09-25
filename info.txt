@@ -1,0 +1,21 @@
+## Create Wallet results 25.9.24
+Created 0xDf...F1e2; Deployed : 0xDf...F1e2
+Full address :  0xDf08cAA56EFec677d1C9ed4843ef3399bD6cF1e2
+The balance of 0xe59081 is: 0.0 ETH
+
+## 2nd Tries Create Wallet results 25.9.24
+12-word secret mnemonic :  drive drop embody one assault lemon jeans foam never pottery pave cushion
+Created 0xaB...e6fD; Deployed : 0xaB...e6fD
+Full address :  0xaB2bBB042E3535934a00bBF8e132AD66089de6fD
+The balance of 0xaB...e6fD is: 0.0 ETH
+
+## Child Wallet Output 25.9.24
+
+Aubry's wallet address : 0x759C3bbB8B6DFbc687852Af77D6380A556E1a4B7
+Billy's wallet address : 0x3c616378554D63665c70aEd134CDd0Bb9421a7ec
+Candice's wallet address : 0x26FbA1fb8cf2edec5Bc987bF81B15c4aB7e71035
+Thomas's wallet address : 0xde8E34b82B5Ab48615301a71A1E28D829f1AfdFa
+The balance of 0x75...a4B7 is: 0.0 ETH
+The balance of 0x3c...a7ec is: 0.0 ETH
+The balance of 0x26...1035 is: 0.0 ETH
+The balance of 0xde...fdFa is: 0.0 ETH
